@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Northavon_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q7057688",
+    "start": "1983",
+    "end": "2010"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
